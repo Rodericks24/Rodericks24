@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm RODERICKS A</h1>
 <h3 align="center">FULL STACK MERN DEVELOPER</h3>
-<img src="https://www.freepik.com/free-vector/programmers-concept-with-flat-design_2488096.htm#query=full%20stack%20developer%20gif&position=1&from_view=search&track=ais">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodericks24&label=Profile%20views&color=0e75b6&style=flat" alt="rodericks24" /> </p>
-
+<p align="center"> <img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="rodericks24" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodericks24" alt="rodericks24" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development with MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://rodericks24.github.io/MyPortFolio/](https://rodericks24.github.io/MyPortFolio/)
+- 👨‍💻 My Portfolio project is available at [https://rodericks24.github.io/MyPortFolio/](https://rodericks24.github.io/MyPortFolio/)
 
 - 📫 How to reach me **rodericks2t@gmail.com**
 
