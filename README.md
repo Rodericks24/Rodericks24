@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development with MERN STACK**
 
-- 👨‍💻 My Portfolio project is available at [https://rodericks24.github.io/Portfolio/](https://rodericks24.github.io/MyPortFolio/)
+- 👨‍💻 My Portfolio project is available at [https://rodericks24.github.io/Portfolio/](https://rodericks24.github.io/Portfolio/)
 
 - 📫 How to reach me **rodericks2t@gmail.com**
 
