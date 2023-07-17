@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Full Stack Development with MERN STACK**
 
 - 👨‍💻 My Portfolio project is available at [https://rodericks24.github.io/Portfolio/](https://rodericks24.github.io/Portfolio/)
-
+- 👨‍💻 My Banking Application project is available at [https://rodericks-badbank.netlify.app](https://rodericks-badbank.netlify.app/)
 - 📫 How to reach me **rodericks2t@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
